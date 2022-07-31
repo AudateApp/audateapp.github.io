@@ -2,7 +2,9 @@
 Audate is a chrome extension for making voice searches.
 
 ## Check it Out
-View on Chrome Web Store - https://chrome.google.com/webstore/detail/audate-voice-search/agmgoemhckhccgibmoigonndjhjllcoh
+View on Chrome Web Store - [https://chrome.google.com/webstore/detail/audate-voice-search/agmgoemhckhccgibmoigonndjhjllcoh](https://chrome.google.com/webstore/detail/audate-voice-search/agmgoemhckhccgibmoigonndjhjllcoh).
+
+Watch demo on YouTube - [https://youtube.com/](https://youtube.com/)
 
 ## How to Use
 
@@ -40,3 +42,15 @@ We added a shortcut to help you get to the search results page faster from a tex
 
 ### It's Free
 There is no cost to using this product and there will never be. I built this to improve my search productivity, and figured others might find it useful as well.
+
+
+## Contact
+
+For feedback, you may create a new issue on Github here - https://github.com/AudateApp/audate/issues
+
+To follow Audate on social media:
+* Facebook - https://www.facebook.com/AudateApp
+* Twitter - https://twitter.com/@AudateApp
+* Github - https://github.com/AudateApp
+
+Email at hello@audate.app
