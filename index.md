@@ -35,5 +35,8 @@ Audate supports all popular search engines Google, Bing, Baidu, Yahoo!, Yandex, 
 ### State of the Art AI
 Audate relies on state of the art AI to ensure your queries are transcribed correctly for the given locale.  It can filter out your voice from background music, detect when you're done speaking and automatically begin search and a whole lot more.
 
+### Contextual Search
+We added a shortcut to help you get to the search results page faster from a text selection. Next time you select text, instead of opening a new tab, navigating to Google.com and pasting the text, just tap the Audate search icon above the selected text and you'll instantly preview the search results on the same tab.
+
 ### It's Free
 There is no cost to using this product and there will never be. I built this to improve my search productivity, and figured others might find it useful as well.
