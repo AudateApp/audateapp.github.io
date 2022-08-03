@@ -9,16 +9,21 @@ Watch demo on YouTube - [https://youtube.com/](https://youtube.com/)
 ## How to Use
 
 1. Install the Extension.
-2. Grant microphone permission, necessary to record and transcribe audio.
-3. Tap on the browser icon to open voice prompt.
-4. Speak the query.
-5. Audate automatically detects when you're done speaking and opens the search results page.
+2. Pin the extension [demo](https://support.getmagical.com/hc/en-us/articles/5614632993691-Step-1-Pin-the-extension-)
+3. Grant microphone permission, necessary to record and transcribe audio.
+4. Tap on the browser icon to open voice prompt.
+5. Speak the query.
+6. Audate automatically detects when you're done speaking and opens the search results page.
 
 ## Features
 
 
-### Highly ergonomic
-Voice search is faster and far more ergonomic than typing. This speed and convenience is critical since we spend the bulk of our browsing hours "Searching".
+### It is faster
+"You can speak 110–150 words per min, as opposed to avg person’s typing 38–40 wpm" - [@purnavirji ref](https://www.bruceclay.com/blog/learn-how-to-optimize-for-voice-search-now/). If you have to be anywhere below average, yes I'm looking at you single-finger typist, stop dreading over typing "why is the economy bad with all the taxes I am paying?", [get Audate](https://chrome.google.com/webstore/detail/audate-voice-search/agmgoemhckhccgibmoigonndjhjllcoh).
+
+## It is Ergnonomic
+"Repetitive motions like typing... that you do over and over can bring about carpal tunnel syndome" - [WebMd](https://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome). Speaking of over-and-over, we [spend most of our time searching]([https://i.imgur.com/9RSuuFR.png](https://www.digitalinformationworld.com/2021/08/how-does-world-spend-its-time-on.html)). Surprise! 
+
 
 ### Better queries -> Better Results
 Voice queries are more natural than text queries and today's AI models are better at answering voice queries than a bunch of typed keywords. For example, people are more likely to say "How tall is Obama?" while more likely to type "Obama height".
@@ -49,8 +54,8 @@ There is no cost to using this product and there will never be. I built this to 
 For feedback, you may create a new issue on Github here - https://github.com/AudateApp/audate/issues
 
 To follow Audate on social media:
-* Facebook - https://www.facebook.com/AudateApp
-* Twitter - https://twitter.com/@AudateApp
-* Github - https://github.com/AudateApp
+* Facebook - [https://www.facebook.com/AudateApp](https://www.facebook.com/AudateApp)
+* Twitter - [https://twitter.com/@AudateApp](https://twitter.com/@AudateApp)
+* Github - [https://github.com/AudateApp](https://github.com/AudateApp)
 
 Email at hello@audate.app
