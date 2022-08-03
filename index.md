@@ -22,7 +22,7 @@ Watch demo on YouTube - [https://youtube.com/](https://youtube.com/)
 "You can speak 110–150 words per min, as opposed to avg person’s typing 38–40 wpm" - [@purnavirji ref](https://www.bruceclay.com/blog/learn-how-to-optimize-for-voice-search-now/). If you have to be anywhere below average, yes I'm looking at you single-finger typist, stop dreading over typing "why is the economy bad with all the taxes I am paying?", [get Audate](https://chrome.google.com/webstore/detail/audate-voice-search/agmgoemhckhccgibmoigonndjhjllcoh).
 
 ## It is Ergnonomic
-"Repetitive motions like typing... that you do over and over can bring about carpal tunnel syndome" - [WebMd](https://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome). Speaking of over-and-over, we [spend most of our time searching]([https://i.imgur.com/9RSuuFR.png](https://www.digitalinformationworld.com/2021/08/how-does-world-spend-its-time-on.html)). Surprise! 
+"Repetitive motions like typing... that you do over and over can bring about carpal tunnel syndome" - [WebMd](https://www.webmd.com/pain-management/carpal-tunnel/carpal-tunnel-syndrome). Speaking of over-and-over, we [spend most of our time searching]([https://i.imgur.com/9RSuuFR.png](https://www.digitalinformationworld.com/2021/08/how-does-world-spend-its-time-on.html)). Surprise! Audate enables you to do that search with voice and save on some medical bills.
 
 
 ### Better queries -> Better Results
