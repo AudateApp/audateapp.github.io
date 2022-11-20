@@ -1,10 +1,8 @@
-# Audate
+# Audate Voice Search
 Audate is a chrome extension for making voice searches.
 
 ## Check it Out
 View on Chrome Web Store - [https://chrome.google.com/webstore/detail/audate-voice-search/agmgoemhckhccgibmoigonndjhjllcoh](https://chrome.google.com/webstore/detail/audate-voice-search/agmgoemhckhccgibmoigonndjhjllcoh).
-
-Watch demo on YouTube - [https://youtube.com/](https://youtube.com/)
 
 ## How to Use
 
@@ -16,7 +14,6 @@ Watch demo on YouTube - [https://youtube.com/](https://youtube.com/)
 6. Audate automatically detects when you're done speaking and opens the search results page.
 
 ## Features
-
 
 ### It is faster
 "You can speak 110–150 words per min, as opposed to avg person’s typing 38–40 wpm" - [@purnavirji ref](https://www.bruceclay.com/blog/learn-how-to-optimize-for-voice-search-now/). If you have to be anywhere below average, yes I'm looking at you single-finger typist, stop dreading over typing "why is the economy bad with all the taxes I am paying?", [get Audate](https://chrome.google.com/webstore/detail/audate-voice-search/agmgoemhckhccgibmoigonndjhjllcoh).
@@ -51,11 +48,10 @@ There is no cost to using this product and there will never be. I built this to 
 
 ## Contact
 
-For feedback, you may create a new issue on Github here - https://github.com/AudateApp/audate/issues
+For feedback, you may create a new issue on Github here - https://github.com/AudateApp/audate/issues.
+For enquiries, email audateapp@gmail.com.
 
 To follow Audate on social media:
 * Facebook - [https://www.facebook.com/AudateApp](https://www.facebook.com/AudateApp)
 * Twitter - [https://twitter.com/@AudateApp](https://twitter.com/@AudateApp)
 * Github - [https://github.com/AudateApp](https://github.com/AudateApp)
-
-Email at hello@audate.app
