@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Voice is Faster
     description                           : “You can speak 110-150 words per min, as opposed to avg person's typing 38-40 wpm” - @purnavirji
-    fontawesome_icon_name                 : gauge-high
+    fontawesome_icon_name                 : truck-fast
     
   - title                                 : More ergnonomic
     description                           : “Repetitive motions like typing… that you do over and over can bring about carpal tunnel syndome” - WebMd.
@@ -57,15 +57,15 @@ features                                  :
   
   - title                                 : Free forever
     description                           : The source code is open-source at https://github.com/AudateApp/voice-search-extension. No ads, no sign-ups, no bs.
-    fontawesome_icon_name                 : hand-holding-dollar
+    fontawesome_icon_name                 : money-check-dollar
 
-  - title                                 : All popular search engines included
+  - title                                 : Popular search engines
     description                           : You can choose from Google to Bing, Baidu, Yandex, Yahoo, DuckDuckGo and Ecosia.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : searchengine
 
   - title                                 : Over 300 locales supported
     description                           : For each language, you can choose a country-specific dialect for high-accuracy recognition.
-    fontawesome_icon_name                 : earth-americas
+    fontawesome_icon_name                 : globe
 
   - title                                 : State of the art AI
     description                           : Automatically detects an ignores music, noise. Detects active mic and when you stop speaking.
