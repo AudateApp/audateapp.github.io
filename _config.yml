@@ -21,7 +21,7 @@ enable_smart_app_banner                   : false                               
 
 # Information About Yourself
 your_name                                 : Justice Ogbonna                              
-your_link                                 : https://justiceo.com                     
+your_link                                 : https://www.justiceo.com                     
 your_city                                 : San Francisco                                
 email_address                             : hello@justiceo.com
 facebook_username                         : justice.ogb                                          
@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Voice is Faster
     description                           : “You can speak 110-150 words per min, as opposed to avg person's typing 38-40 wpm” - @purnavirji
-    fontawesome_icon_name                 : truck-fast
+    fontawesome_icon_name                 : rocket
     
   - title                                 : More ergnonomic
     description                           : “Repetitive motions like typing… that you do over and over can bring about carpal tunnel syndome” - WebMd.
@@ -56,12 +56,12 @@ features                                  :
     fontawesome_icon_name                 : universal-access
   
   - title                                 : Free forever
-    description                           : The source code is open-source at https://github.com/AudateApp/voice-search-extension. No ads, no sign-ups, no bs.
-    fontawesome_icon_name                 : money-check-dollar
+    description                           : The source code is open-source, [Github link](https://github.com/AudateApp/voice-search-extension). No ads, no sign-ups, no bs.
+    fontawesome_icon_name                 : gift
 
   - title                                 : Popular search engines
     description                           : You can choose from Google to Bing, Baidu, Yandex, Yahoo, DuckDuckGo and Ecosia.
-    fontawesome_icon_name                 : searchengine
+    fontawesome_icon_name                 : fire
 
   - title                                 : Over 300 locales supported
     description                           : For each language, you can choose a country-specific dialect for high-accuracy recognition.
